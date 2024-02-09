@@ -22,4 +22,9 @@ namespace PracticeCode
             }
         }
     }
+
+    public class Hello
+    {
+        //Console.WriteLine("Hello world");
+    }
 }
